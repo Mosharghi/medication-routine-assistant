@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+meds.json
+.DS_Store
